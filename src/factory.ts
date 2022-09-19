@@ -10,9 +10,9 @@ class Foods implements IFood {
   weight: number
   name: string
   constructor() {
-    this.price = 599
-    this.weight = 500
-    this.name = 'Пицца'
+    this.price = 0
+    this.weight = 0
+    this.name = ''
   }
   getInfo() {
     console.log(
