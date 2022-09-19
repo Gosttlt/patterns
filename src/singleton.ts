@@ -36,5 +36,3 @@ const fnModule = (() => {
 
 fnModule('inst1')
 fnModule('inst2')
-
-console.log('test')
